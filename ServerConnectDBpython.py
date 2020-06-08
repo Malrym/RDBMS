@@ -1,6 +1,6 @@
 #Programm zum Schreiben von Datenbankeinträgen
 #von Nicolas Csaba Bohocki
-#07.06.2020
+#08.06.2020
 #---------------------------------------------------------------------------------------------------
 import mysql.connector                                                      #Importieren des Moduls für eine Datenbank mithilfe von MySQL
 
